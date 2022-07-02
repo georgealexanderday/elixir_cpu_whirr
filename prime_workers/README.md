@@ -1,6 +1,13 @@
 # PrimeWorkers
+time elixir lib/prime_workers.ex 1000000 1000
+Found 78497 primes from 2 to 1000000.
 
-**TODO: Add description**
+________________________________________________________
+Executed in  922.22 millis    fish           external
+   usr time    4.92 secs    178.00 micros    4.92 secs
+   sys time    0.18 secs     59.00 micros    0.18 secs
+
+
 
 ## Installation
 
